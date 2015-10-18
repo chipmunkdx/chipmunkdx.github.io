@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Hugo on しまりすくんでらっくす </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <language>ja-jp</language>
+    
+    
+    <updated>Sun, 18 Oct 2015 23:42:40 JST</updated>
+    
+    <item>
+      <title>記事のタイトル</title>
+      <link>http://localhost:1313/2015/10/test9</link>
+      <pubDate>Sun, 18 Oct 2015 23:42:40 JST</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/test9</guid>
+      <description>
+
+&lt;h2 id=&#34;テスト記事9個目:dce8e2d9aaa7da9db9d3d8096490eb92&#34;&gt;テスト記事9個目&lt;/h2&gt;
+
+&lt;p&gt;日時の表記がきにいりません。&lt;/p&gt;
+
+&lt;h3 id=&#34;小見出し:dce8e2d9aaa7da9db9d3d8096490eb92&#34;&gt;小見出し&lt;/h3&gt;
+
+&lt;p&gt;2015-01-01にしたいのですけど・・・&lt;/p&gt;
+
+&lt;h4 id=&#34;准見出し:dce8e2d9aaa7da9db9d3d8096490eb92&#34;&gt;准見出し&lt;/h4&gt;
+
+&lt;p&gt;できませんかねぇ。&lt;/p&gt;
+
+&lt;h2 id=&#34;おしまい:dce8e2d9aaa7da9db9d3d8096490eb92&#34;&gt;おしまい&lt;/h2&gt;
+
+&lt;p&gt;いじょうです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2015 10 17_test1</title>
+      <link>http://localhost:1313/2015/10/2015-10-17_test1</link>
+      <pubDate>Sat, 17 Oct 2015 17:01:48 JST</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/2015-10-17_test1</guid>
+      <description>
+
+&lt;h1 id=&#34;テスト１:77f9db138f9a1d47bd106dbb21578320&#34;&gt;テスト１&lt;/h1&gt;
+
+&lt;p&gt;これはテストドキュメントです。&lt;/p&gt;
+
+&lt;h2 id=&#34;テスト２:77f9db138f9a1d47bd106dbb21578320&#34;&gt;テスト２&lt;/h2&gt;
+
+&lt;p&gt;h2の表示&lt;/p&gt;
+
+&lt;h3 id=&#34;テスト３:77f9db138f9a1d47bd106dbb21578320&#34;&gt;テスト３&lt;/h3&gt;
+
+&lt;p&gt;h3の表示&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

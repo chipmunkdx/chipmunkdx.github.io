@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Hugo on しまりすくんでらっくす </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/categories/hugo/</link>
+    <language>ja-jp</language>
+    
+    
+    <updated>Sat, 17 Oct 2015 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Just another sample post</title>
+      <link>http://localhost:1313/2015/10/newest</link>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/newest</guid>
+      <description>
+
+&lt;h1 id=&#34;test-blog:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;TEST blog&lt;/h1&gt;
+
+&lt;h2 id=&#34;h2-test:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;H2 TEST&lt;/h2&gt;
+
+&lt;h3 id=&#34;h3-test:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;H3 TEST&lt;/h3&gt;
+
+&lt;h4 id=&#34;h4-test:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;H4 TEST&lt;/h4&gt;
+
+&lt;h5 id=&#34;h5-test:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;H5 TEST&lt;/h5&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

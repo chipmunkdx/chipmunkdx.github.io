@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on しまりすくんでらっくす </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/post/</link>
+    <language>ja-jp</language>
+    
+    
+    <updated>Sun, 18 Oct 2015 23:42:40 JST</updated>
+    
+    <item>
+      <title>記事のタイトル</title>
+      <link>http://localhost:1313/2015/10/test9</link>
+      <pubDate>Sun, 18 Oct 2015 23:42:40 JST</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/test9</guid>
+      <description>
+
+&lt;h2 id=&#34;テスト記事9個目:dce8e2d9aaa7da9db9d3d8096490eb92&#34;&gt;テスト記事9個目&lt;/h2&gt;
+
+&lt;p&gt;日時の表記がきにいりません。&lt;/p&gt;
+
+&lt;h3 id=&#34;小見出し:dce8e2d9aaa7da9db9d3d8096490eb92&#34;&gt;小見出し&lt;/h3&gt;
+
+&lt;p&gt;2015-01-01にしたいのですけど・・・&lt;/p&gt;
+
+&lt;h4 id=&#34;准見出し:dce8e2d9aaa7da9db9d3d8096490eb92&#34;&gt;准見出し&lt;/h4&gt;
+
+&lt;p&gt;できませんかねぇ。&lt;/p&gt;
+
+&lt;h2 id=&#34;おしまい:dce8e2d9aaa7da9db9d3d8096490eb92&#34;&gt;おしまい&lt;/h2&gt;
+
+&lt;p&gt;いじょうです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test8</title>
+      <link>http://localhost:1313/2015/10/test8</link>
+      <pubDate>Sun, 18 Oct 2015 08:50:23 JST</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/test8</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test7</title>
+      <link>http://localhost:1313/2015/10/test7</link>
+      <pubDate>Sun, 18 Oct 2015 08:44:09 JST</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/test7</guid>
+      <description>
+
+&lt;h2 id=&#34;test7:837b4a7fded41f2d99a739b5d4eaf8ec&#34;&gt;TEST7&lt;/h2&gt;
+
+&lt;h3 id=&#34;this-is-test:837b4a7fded41f2d99a739b5d4eaf8ec&#34;&gt;This is test&lt;/h3&gt;
+
+&lt;h2 id=&#34;end:837b4a7fded41f2d99a739b5d4eaf8ec&#34;&gt;End&amp;hellip;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2015 10 17_test1</title>
+      <link>http://localhost:1313/2015/10/2015-10-17_test1</link>
+      <pubDate>Sat, 17 Oct 2015 17:01:48 JST</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/2015-10-17_test1</guid>
+      <description>
+
+&lt;h1 id=&#34;テスト１:77f9db138f9a1d47bd106dbb21578320&#34;&gt;テスト１&lt;/h1&gt;
+
+&lt;p&gt;これはテストドキュメントです。&lt;/p&gt;
+
+&lt;h2 id=&#34;テスト２:77f9db138f9a1d47bd106dbb21578320&#34;&gt;テスト２&lt;/h2&gt;
+
+&lt;p&gt;h2の表示&lt;/p&gt;
+
+&lt;h3 id=&#34;テスト３:77f9db138f9a1d47bd106dbb21578320&#34;&gt;テスト３&lt;/h3&gt;
+
+&lt;p&gt;h3の表示&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>テストNo.3</title>
+      <link>http://localhost:1313/2015/10/test3</link>
+      <pubDate>Sat, 17 Oct 2015 16:57:02 JST</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/test3</guid>
+      <description>
+
+&lt;h1 id=&#34;てすと３:31734cf674b9f890c9c7f3365b6ad818&#34;&gt;てすと３&lt;/h1&gt;
+
+&lt;h2 id=&#34;テスト３の１:31734cf674b9f890c9c7f3365b6ad818&#34;&gt;テスト３の１&lt;/h2&gt;
+
+&lt;h3 id=&#34;テスト３の１の１:31734cf674b9f890c9c7f3365b6ad818&#34;&gt;テスト３の１の１&lt;/h3&gt;
+
+&lt;h4 id=&#34;テスト３の１の１の１:31734cf674b9f890c9c7f3365b6ad818&#34;&gt;テスト３の１の１の１&lt;/h4&gt;
+
+&lt;h4 id=&#34;テスト３の１の１の２:31734cf674b9f890c9c7f3365b6ad818&#34;&gt;テスト３の１の１の２&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>http://localhost:1313/2015/10/test2</link>
+      <pubDate>Sat, 17 Oct 2015 16:55:45 JST</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/test2</guid>
+      <description>
+
+&lt;h2 id=&#34;てすと２:d950817e04abf2512a1ffa509267f987&#34;&gt;てすと２&lt;/h2&gt;
+
+&lt;h1 id=&#34;テスト:d950817e04abf2512a1ffa509267f987&#34;&gt;テスト&lt;/h1&gt;
+
+&lt;h2 id=&#34;テスト２:d950817e04abf2512a1ffa509267f987&#34;&gt;テスト２&lt;/h2&gt;
+
+&lt;h3 id=&#34;テスト３:d950817e04abf2512a1ffa509267f987&#34;&gt;テスト３&lt;/h3&gt;
+
+&lt;h4 id=&#34;テスト４:d950817e04abf2512a1ffa509267f987&#34;&gt;テスト４&lt;/h4&gt;
+
+&lt;h5 id=&#34;テスト５:d950817e04abf2512a1ffa509267f987&#34;&gt;テスト５&lt;/h5&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Just another sample post</title>
+      <link>http://localhost:1313/2015/10/newest</link>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/newest</guid>
+      <description>
+
+&lt;h1 id=&#34;test-blog:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;TEST blog&lt;/h1&gt;
+
+&lt;h2 id=&#34;h2-test:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;H2 TEST&lt;/h2&gt;
+
+&lt;h3 id=&#34;h3-test:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;H3 TEST&lt;/h3&gt;
+
+&lt;h4 id=&#34;h4-test:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;H4 TEST&lt;/h4&gt;
+
+&lt;h5 id=&#34;h5-test:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;H5 TEST&lt;/h5&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

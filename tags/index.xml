@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on しまりすくんでらっくす </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/tags/</link>
+    <language>ja-jp</language>
+    
+    
+    <updated>Sun, 18 Oct 2015 08:50:23 JST</updated>
+    
+    <item>
+      <title>test8</title>
+      <link>http://localhost:1313/2015/10/test8</link>
+      <pubDate>Sun, 18 Oct 2015 08:50:23 JST</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/test8</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test8</title>
+      <link>http://localhost:1313/2015/10/test8</link>
+      <pubDate>Sun, 18 Oct 2015 08:50:23 JST</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/test8</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test7</title>
+      <link>http://localhost:1313/2015/10/test7</link>
+      <pubDate>Sun, 18 Oct 2015 08:44:09 JST</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/test7</guid>
+      <description>
+
+&lt;h2 id=&#34;test7:837b4a7fded41f2d99a739b5d4eaf8ec&#34;&gt;TEST7&lt;/h2&gt;
+
+&lt;h3 id=&#34;this-is-test:837b4a7fded41f2d99a739b5d4eaf8ec&#34;&gt;This is test&lt;/h3&gt;
+
+&lt;h2 id=&#34;end:837b4a7fded41f2d99a739b5d4eaf8ec&#34;&gt;End&amp;hellip;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test7</title>
+      <link>http://localhost:1313/2015/10/test7</link>
+      <pubDate>Sun, 18 Oct 2015 08:44:09 JST</pubDate>
+      
+      <guid>http://localhost:1313/2015/10/test7</guid>
+      <description>
+
+&lt;h2 id=&#34;test7:837b4a7fded41f2d99a739b5d4eaf8ec&#34;&gt;TEST7&lt;/h2&gt;
+
+&lt;h3 id=&#34;this-is-test:837b4a7fded41f2d99a739b5d4eaf8ec&#34;&gt;This is test&lt;/h3&gt;
+
+&lt;h2 id=&#34;end:837b4a7fded41f2d99a739b5d4eaf8ec&#34;&gt;End&amp;hellip;&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
