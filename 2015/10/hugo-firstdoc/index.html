@@ -4,12 +4,12 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>test2 - しまりすくんでらっくす</title>
+	<title>はじめてのHugo記事 - しまりすくんでらっくす</title>
 	<meta name="author" content="map[]">
 
 	
-	
-	<meta name="description" content="">
+	  
+	<meta name="description" content="Hugoをつかって初めてのきじを作成しています。">
 	
 
 	
@@ -17,7 +17,7 @@
 	<meta name="MobileOptimized" content="320">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     
-	<link rel="canonical" href="http://blog.chipmunkdx.net/2015/10/test2">
+	<link rel="canonical" href="http://blog.chipmunkdx.net/2015/10/hugo-firstdoc">
 	<link href="http://blog.chipmunkdx.net/favicon.png" rel="shortcut icon">
 	<link href="http://blog.chipmunkdx.net/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 	<link href="http://blog.chipmunkdx.net/css/font-awesome.min.css" media="screen, projection" rel="stylesheet" type="text/css">
@@ -109,20 +109,137 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
-    <h1 class="title" itemprop="name">test2</h1>
+    <h1 class="title" itemprop="name">はじめてのHugo記事</h1>
 	<div class="entry-content" itemprop="articleBody">
 
-<h2 id="てすと２:76deccb2b45314a67c41f540ee860286">てすと２</h2>
+<p><img src="/images/img/enpitsu.png" alt="" /></p>
 
-<h1 id="テスト:76deccb2b45314a67c41f540ee860286">テスト</h1>
+<p>HugoとGitHub Pagesをつかってブログをつくるテストを行っています。</p>
 
-<h2 id="テスト２:76deccb2b45314a67c41f540ee860286">テスト２</h2>
+<h2 id="ヘッダのテスト:8e20147d023d207fce55ec196427a6b6">ヘッダのテスト</h2>
 
-<h3 id="テスト３:76deccb2b45314a67c41f540ee860286">テスト３</h3>
+<p>マークダウンのテスト（というより確認）。</p>
 
-<h4 id="テスト４:76deccb2b45314a67c41f540ee860286">テスト４</h4>
+<h3 id="テーブルのチェック:8e20147d023d207fce55ec196427a6b6">テーブルのチェック</h3>
 
-<h5 id="テスト５:76deccb2b45314a67c41f540ee860286">テスト５</h5>
+<p>シンプルなテーブル：</p>
+
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Value</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Computer</td>
+<td>$1600</td>
+</tr>
+
+<tr>
+<td>Phone</td>
+<td>$12</td>
+</tr>
+
+<tr>
+<td>Pipe</td>
+<td>$1</td>
+</tr>
+</tbody>
+</table>
+
+<p>２カラムのテーブル、位置合わせ付き：</p>
+
+<table>
+<thead>
+<tr>
+<th align="left">Item</th>
+<th align="right">Value</th>
+<th align="center">Qty</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="left">Computer</td>
+<td align="right">$1600</td>
+<td align="center">5</td>
+</tr>
+
+<tr>
+<td align="left">Phone</td>
+<td align="right">$12</td>
+<td align="center">12</td>
+</tr>
+
+<tr>
+<td align="left">Pipe</td>
+<td align="right">$1</td>
+<td align="center">234</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="定義リスト:8e20147d023d207fce55ec196427a6b6">定義リスト</h4>
+
+<dl>
+<dt>Term 2</dt>
+<dd>Definition A</dd>
+<dd>Definition B</dd>
+<dt>Term 3</dt>
+<dd><p>Definition C</p></dd>
+<dd><p>Definition D</p>
+
+<blockquote>
+<p>part of definition D</p>
+</blockquote></dd>
+</dl>
+
+<p>ion D</p>
+
+<h5 id="コードブロック:8e20147d023d207fce55ec196427a6b6">コードブロック</h5>
+
+<pre><code>// Foo
+var bar = 0;
+</code></pre>
+
+<h3 id="フットノート:8e20147d023d207fce55ec196427a6b6">フットノート</h3>
+
+<p>フットノートは<sup class="footnote-ref" id="fnref:8e20147d023d207fce55ec196427a6b6:footnote"><a rel="footnote" href="#fn:8e20147d023d207fce55ec196427a6b6:footnote">1</a></sup>記事の一番下にリストされるはずですが、
+本当にできるのでしょうか。</p>
+
+<h3 id="mathjax:8e20147d023d207fce55ec196427a6b6">MathJax</h3>
+
+<p>数式を表示したいのですが・・・</p>
+
+<p>埋め込みにすると正しく変換できないようです：</p>
+
+<p>The <em>Gamma function</em> satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral</p>
+
+<p>ドルマークで囲うと大丈夫みたい：
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$</p>
+
+<h3 id="umlダイアグラムはできるの:8e20147d023d207fce55ec196427a6b6">UMLダイアグラムはできるの？</h3>
+
+<pre><code class="language-sequence">Alice-&gt;Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob--&gt;Alice: I am good thanks!
+</code></pre>
+
+<p>えらーになるかも</p>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:8e20147d023d207fce55ec196427a6b6:footnote">これがフットノートで、脚注ともいいます。
+ <a class="footnote-return" href="#fnref:8e20147d023d207fce55ec196427a6b6:footnote"><sup>[return]</sup></a></li>
+</ol>
+</div>
 </div>
 <div class="adWide">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
