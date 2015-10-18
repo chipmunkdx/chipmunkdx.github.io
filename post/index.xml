@@ -103,24 +103,52 @@
     </item>
     
     <item>
-      <title>test2</title>
-      <link>http://blog.chipmunkdx.net/2015/10/test2</link>
-      <pubDate>Sat, 17 Oct 2015 16:55:45 JST</pubDate>
+      <title>HUGOの困るところ</title>
+      <link>http://blog.chipmunkdx.net/2015/10/hugo-problems</link>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 UTC</pubDate>
       
-      <guid>http://blog.chipmunkdx.net/2015/10/test2</guid>
+      <guid>http://blog.chipmunkdx.net/2015/10/hugo-problems</guid>
       <description>
 
-&lt;h2 id=&#34;てすと２:76deccb2b45314a67c41f540ee860286&#34;&gt;てすと２&lt;/h2&gt;
+&lt;h2 id=&#34;hugoで記事を作成するときに困る点:76deccb2b45314a67c41f540ee860286&#34;&gt;HUGOで記事を作成するときに困る点&lt;/h2&gt;
 
-&lt;h1 id=&#34;テスト:76deccb2b45314a67c41f540ee860286&#34;&gt;テスト&lt;/h1&gt;
+&lt;p&gt;　HUGOでブログを生成しているのですが、トップページの記事一覧の生成があまり上手ではありません。&lt;/p&gt;
 
-&lt;h2 id=&#34;テスト２:76deccb2b45314a67c41f540ee860286&#34;&gt;テスト２&lt;/h2&gt;
+&lt;h3 id=&#34;いけてないところ:76deccb2b45314a67c41f540ee860286&#34;&gt;いけてないところ&lt;/h3&gt;
 
-&lt;h3 id=&#34;テスト３:76deccb2b45314a67c41f540ee860286&#34;&gt;テスト３&lt;/h3&gt;
+&lt;h4 id=&#34;1-トップページ処理:76deccb2b45314a67c41f540ee860286&#34;&gt;1. トップページ処理&lt;/h4&gt;
 
-&lt;h4 id=&#34;テスト４:76deccb2b45314a67c41f540ee860286&#34;&gt;テスト４&lt;/h4&gt;
+&lt;p&gt;WordPressでは、記事のアイキャッチ画像を自動的に生成して「抜粋」か「あらまし」を表示することができるのですが、&lt;/p&gt;
 
-&lt;h5 id=&#34;テスト５:76deccb2b45314a67c41f540ee860286&#34;&gt;テスト５&lt;/h5&gt;
+&lt;h5 id=&#34;1-1-抜粋:76deccb2b45314a67c41f540ee860286&#34;&gt;1.1 抜粋&lt;/h5&gt;
+
+&lt;p&gt;　Hugoは抜粋（Except）が70ワード固定となっていてmoreを使う必要があります。&lt;/p&gt;
+
+&lt;h5 id=&#34;1-2-アイキャッチ画像:76deccb2b45314a67c41f540ee860286&#34;&gt;1.2 アイキャッチ画像&lt;/h5&gt;
+
+&lt;p&gt;　どうやらアイキャッチ画像の自動生成はできないようです。&lt;/p&gt;
+
+&lt;h4 id=&#34;2-数式:76deccb2b45314a67c41f540ee860286&#34;&gt;2. 数式&lt;/h4&gt;
+
+&lt;p&gt;MathJaxを組み入れてみましたが、インラインで数式を展開できません。
+こまったね。&lt;/p&gt;
+
+&lt;h4 id=&#34;3-umlダイアグラム:76deccb2b45314a67c41f540ee860286&#34;&gt;3. UMLダイアグラム&lt;/h4&gt;
+
+&lt;p&gt;これもまったく表示できません。&lt;/p&gt;
+
+&lt;h4 id=&#34;4-翻訳処理がない:76deccb2b45314a67c41f540ee860286&#34;&gt;4. 翻訳処理がない&lt;/h4&gt;
+
+&lt;p&gt;多言語に対応した構造ではないようで、英語・日本語・フランス語などの振り分けなどを翻訳ファイルを使ってとは
+できそうにありません。。。&lt;/p&gt;
+
+&lt;p&gt;スタティック・ジェネレータだから、言語展開できると良いのですけどね。&lt;/p&gt;
+
+&lt;h3 id=&#34;感想:76deccb2b45314a67c41f540ee860286&#34;&gt;感想&lt;/h3&gt;
+
+&lt;p&gt;2000年ころのMTみたいな感じがする。&lt;/p&gt;
+
+&lt;p&gt;イケてるという噂だっただけにちょっと残念&lt;/p&gt;
 </description>
     </item>
     
