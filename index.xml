@@ -7,31 +7,35 @@
     <language>ja-jp</language>
     
     
-    <updated>Sun, 18 Oct 2015 23:42:40 JST</updated>
+    <updated>Sun, 18 Oct 2015 00:00:00 UTC</updated>
     
     <item>
-      <title>記事のタイトル</title>
-      <link>http://blog.chipmunkdx.net/2015/10/test9</link>
-      <pubDate>Sun, 18 Oct 2015 23:42:40 JST</pubDate>
+      <title>HUGO de ブログ</title>
+      <link>http://blog.chipmunkdx.net/2015/10/hugo-de-blog</link>
+      <pubDate>Sun, 18 Oct 2015 00:00:00 UTC</pubDate>
       
-      <guid>http://blog.chipmunkdx.net/2015/10/test9</guid>
+      <guid>http://blog.chipmunkdx.net/2015/10/hugo-de-blog</guid>
       <description>
 
-&lt;h2 id=&#34;テスト記事9個目:1b80ef0546b4693bd390c5e234b2bb53&#34;&gt;テスト記事9個目&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.chipmunkdx.net/images/img/sitdown.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;日時の表記がきにいりません。&lt;/p&gt;
+&lt;h2 id=&#34;日時の表示を変えました:1b80ef0546b4693bd390c5e234b2bb53&#34;&gt;日時の表示を変えました&lt;/h2&gt;
+
+&lt;p&gt;&lt;del&gt;日時の表記がきにいりません&lt;/del&gt;表示を日本式に変更しました。&lt;/p&gt;
 
 &lt;h3 id=&#34;小見出し:1b80ef0546b4693bd390c5e234b2bb53&#34;&gt;小見出し&lt;/h3&gt;
 
-&lt;p&gt;2015-01-01にしたいのですけど・・・&lt;/p&gt;
+&lt;p&gt;あまりにメリハリがないので、見出しに色つけました。&lt;/p&gt;
 
 &lt;h4 id=&#34;准見出し:1b80ef0546b4693bd390c5e234b2bb53&#34;&gt;准見出し&lt;/h4&gt;
 
-&lt;p&gt;できませんかねぇ。&lt;/p&gt;
+&lt;p&gt;アイコンも追加しました。&lt;/p&gt;
 
-&lt;h2 id=&#34;おしまい:1b80ef0546b4693bd390c5e234b2bb53&#34;&gt;おしまい&lt;/h2&gt;
+&lt;h2 id=&#34;これから:1b80ef0546b4693bd390c5e234b2bb53&#34;&gt;これから&lt;/h2&gt;
 
-&lt;p&gt;いじょうです。&lt;/p&gt;
+&lt;p&gt;ブログをしばらく作成してみようと思っています。&lt;/p&gt;
+
+&lt;p&gt;つづけられますでしょうか。&lt;/p&gt;
 </description>
     </item>
     
