@@ -61,26 +61,6 @@
     </item>
     
     <item>
-      <title>テストNo.3</title>
-      <link>http://blog.chipmunkdx.net/2015/10/%E3%83%86%E3%82%B9%E3%83%88no.3</link>
-      <pubDate>Sat, 17 Oct 2015 16:57:02 JST</pubDate>
-      
-      <guid>http://blog.chipmunkdx.net/2015/10/%E3%83%86%E3%82%B9%E3%83%88no.3</guid>
-      <description>
-
-&lt;h1 id=&#34;てすと３:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;てすと３&lt;/h1&gt;
-
-&lt;h2 id=&#34;テスト３の１:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;テスト３の１&lt;/h2&gt;
-
-&lt;h3 id=&#34;テスト３の１の１:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;テスト３の１の１&lt;/h3&gt;
-
-&lt;h4 id=&#34;テスト３の１の１の１:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;テスト３の１の１の１&lt;/h4&gt;
-
-&lt;h4 id=&#34;テスト３の１の１の２:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;テスト３の１の１の２&lt;/h4&gt;
-</description>
-    </item>
-    
-    <item>
       <title>HUGOでの記事作成パターン</title>
       <link>http://blog.chipmunkdx.net/2015/10/hugo-testarticle</link>
       <pubDate>Sat, 17 Oct 2015 00:00:00 UTC</pubDate>
@@ -157,6 +137,28 @@
 &lt;p&gt;2000年ころのMTみたいな感じがする。&lt;/p&gt;
 
 &lt;p&gt;イケてるという噂だっただけにちょっと残念&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>テストNo.3</title>
+      <link>http://blog.chipmunkdx.net/2015/10/hugo-test-no4</link>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://blog.chipmunkdx.net/2015/10/hugo-test-no4</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://blog.chipmunkdx.net/images/img/hugo.png&#34; alt=&#34;&#34; title=&#34;HUGOでブログ&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;てすと３:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;てすと３&lt;/h2&gt;
+
+&lt;h2 id=&#34;テスト３の１:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;テスト３の１&lt;/h2&gt;
+
+&lt;h3 id=&#34;テスト３の１の１:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;テスト３の１の１&lt;/h3&gt;
+
+&lt;h4 id=&#34;テスト３の１の１の１:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;テスト３の１の１の１&lt;/h4&gt;
+
+&lt;h4 id=&#34;テスト３の１の１の２:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;テスト３の１の１の２&lt;/h4&gt;
 </description>
     </item>
     
