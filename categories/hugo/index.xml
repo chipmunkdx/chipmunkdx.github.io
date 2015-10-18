@@ -17,6 +17,10 @@
       <guid>http://blog.chipmunkdx.net/2015/10/hugo-problems</guid>
       <description>
 
+&lt;h2 id=&#34;あらまし:76deccb2b45314a67c41f540ee860286&#34;&gt;あらまし&lt;/h2&gt;
+
+&lt;p&gt;Hugoを使ってブログをテストし始めました、ここ１〜２年ユーザも増えているようですので少しは洗練されてきたかとおもいましたが。&lt;/p&gt;
+
 &lt;h2 id=&#34;hugoで記事を作成するときに困る点:76deccb2b45314a67c41f540ee860286&#34;&gt;HUGOで記事を作成するときに困る点&lt;/h2&gt;
 
 &lt;p&gt;　HUGOでブログを生成しているのですが、トップページの記事一覧の生成があまり上手ではありません。&lt;/p&gt;
