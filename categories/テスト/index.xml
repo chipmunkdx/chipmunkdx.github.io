@@ -1,128 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Posts on しまりすくんでらっくす </title>
+      <title>テスト on しまりすくんでらっくす </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://blog.chipmunkdx.net/post/</link>
+    <link>http://blog.chipmunkdx.net/categories/%E3%83%86%E3%82%B9%E3%83%88/</link>
     <language>ja-jp</language>
     
     
-    <updated>Sun, 18 Oct 2015 23:42:40 JST</updated>
-    
-    <item>
-      <title>記事のタイトル</title>
-      <link>http://blog.chipmunkdx.net/2015/10/2015-10-17_test5</link>
-      <pubDate>Sun, 18 Oct 2015 23:42:40 JST</pubDate>
-      
-      <guid>http://blog.chipmunkdx.net/2015/10/2015-10-17_test5</guid>
-      <description>
-
-&lt;h2 id=&#34;テスト記事9個目:1b80ef0546b4693bd390c5e234b2bb53&#34;&gt;テスト記事9個目&lt;/h2&gt;
-
-&lt;p&gt;日時の表記がきにいりません。&lt;/p&gt;
-
-&lt;h3 id=&#34;小見出し:1b80ef0546b4693bd390c5e234b2bb53&#34;&gt;小見出し&lt;/h3&gt;
-
-&lt;p&gt;2015-01-01にしたいのですけど・・・&lt;/p&gt;
-
-&lt;h4 id=&#34;准見出し:1b80ef0546b4693bd390c5e234b2bb53&#34;&gt;准見出し&lt;/h4&gt;
-
-&lt;p&gt;できませんかねぇ。&lt;/p&gt;
-
-&lt;h2 id=&#34;おしまい:1b80ef0546b4693bd390c5e234b2bb53&#34;&gt;おしまい&lt;/h2&gt;
-
-&lt;p&gt;いじょうです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test8</title>
-      <link>http://blog.chipmunkdx.net/2015/10/2015-10-17_test4</link>
-      <pubDate>Sun, 18 Oct 2015 08:50:23 JST</pubDate>
-      
-      <guid>http://blog.chipmunkdx.net/2015/10/2015-10-17_test4</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test7</title>
-      <link>http://blog.chipmunkdx.net/2015/10/2015-10-17_test3</link>
-      <pubDate>Sun, 18 Oct 2015 08:44:09 JST</pubDate>
-      
-      <guid>http://blog.chipmunkdx.net/2015/10/2015-10-17_test3</guid>
-      <description>
-
-&lt;h2 id=&#34;test7:41bf2cb661e3910162144dfe01f77df9&#34;&gt;TEST7&lt;/h2&gt;
-
-&lt;h3 id=&#34;this-is-test:41bf2cb661e3910162144dfe01f77df9&#34;&gt;This is test&lt;/h3&gt;
-
-&lt;h2 id=&#34;end:41bf2cb661e3910162144dfe01f77df9&#34;&gt;End&amp;hellip;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2015 10 17_test1</title>
-      <link>http://blog.chipmunkdx.net/2015/10/2015-10-17_test1</link>
-      <pubDate>Sat, 17 Oct 2015 17:01:48 JST</pubDate>
-      
-      <guid>http://blog.chipmunkdx.net/2015/10/2015-10-17_test1</guid>
-      <description>
-
-&lt;h1 id=&#34;テスト１:77f9db138f9a1d47bd106dbb21578320&#34;&gt;テスト１&lt;/h1&gt;
-
-&lt;p&gt;これはテストドキュメントです。&lt;/p&gt;
-
-&lt;h2 id=&#34;テスト２:77f9db138f9a1d47bd106dbb21578320&#34;&gt;テスト２&lt;/h2&gt;
-
-&lt;p&gt;h2の表示&lt;/p&gt;
-
-&lt;h3 id=&#34;テスト３:77f9db138f9a1d47bd106dbb21578320&#34;&gt;テスト３&lt;/h3&gt;
-
-&lt;p&gt;h3の表示&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>テストNo.3</title>
-      <link>http://blog.chipmunkdx.net/2015/10/2015-10-17_test2</link>
-      <pubDate>Sat, 17 Oct 2015 16:57:02 JST</pubDate>
-      
-      <guid>http://blog.chipmunkdx.net/2015/10/2015-10-17_test2</guid>
-      <description>
-
-&lt;h1 id=&#34;てすと３:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;てすと３&lt;/h1&gt;
-
-&lt;h2 id=&#34;テスト３の１:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;テスト３の１&lt;/h2&gt;
-
-&lt;h3 id=&#34;テスト３の１の１:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;テスト３の１の１&lt;/h3&gt;
-
-&lt;h4 id=&#34;テスト３の１の１の１:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;テスト３の１の１の１&lt;/h4&gt;
-
-&lt;h4 id=&#34;テスト３の１の１の２:3e6eeead588cef3c568d08c74f080cc4&#34;&gt;テスト３の１の１の２&lt;/h4&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test2</title>
-      <link>http://blog.chipmunkdx.net/2015/10/2015-10-16_test1</link>
-      <pubDate>Sat, 17 Oct 2015 16:55:45 JST</pubDate>
-      
-      <guid>http://blog.chipmunkdx.net/2015/10/2015-10-16_test1</guid>
-      <description>
-
-&lt;h2 id=&#34;てすと２:76deccb2b45314a67c41f540ee860286&#34;&gt;てすと２&lt;/h2&gt;
-
-&lt;h1 id=&#34;テスト:76deccb2b45314a67c41f540ee860286&#34;&gt;テスト&lt;/h1&gt;
-
-&lt;h2 id=&#34;テスト２:76deccb2b45314a67c41f540ee860286&#34;&gt;テスト２&lt;/h2&gt;
-
-&lt;h3 id=&#34;テスト３:76deccb2b45314a67c41f540ee860286&#34;&gt;テスト３&lt;/h3&gt;
-
-&lt;h4 id=&#34;テスト４:76deccb2b45314a67c41f540ee860286&#34;&gt;テスト４&lt;/h4&gt;
-
-&lt;h5 id=&#34;テスト５:76deccb2b45314a67c41f540ee860286&#34;&gt;テスト５&lt;/h5&gt;
-</description>
-    </item>
+    <updated>Fri, 16 Oct 2015 00:00:00 UTC</updated>
     
     <item>
       <title>はじめてのHugo記事</title>
