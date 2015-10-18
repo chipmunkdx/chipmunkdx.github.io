@@ -3,7 +3,7 @@
   <channel>
       <title>Test on しまりすくんでらっくす </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/tags/test/</link>
+    <link>http://blog.chipmunkdx.net/tags/test/</link>
     <language>ja-jp</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>記事のタイトル</title>
-      <link>http://localhost:1313/2015/10/test9</link>
+      <link>http://blog.chipmunkdx.net/2015/10/test9</link>
       <pubDate>Sun, 18 Oct 2015 23:42:40 JST</pubDate>
       
-      <guid>http://localhost:1313/2015/10/test9</guid>
+      <guid>http://blog.chipmunkdx.net/2015/10/test9</guid>
       <description>
 
 &lt;h2 id=&#34;テスト記事9個目:dce8e2d9aaa7da9db9d3d8096490eb92&#34;&gt;テスト記事9個目&lt;/h2&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>2015 10 17_test1</title>
-      <link>http://localhost:1313/2015/10/2015-10-17_test1</link>
+      <link>http://blog.chipmunkdx.net/2015/10/2015-10-17_test1</link>
       <pubDate>Sat, 17 Oct 2015 17:01:48 JST</pubDate>
       
-      <guid>http://localhost:1313/2015/10/2015-10-17_test1</guid>
+      <guid>http://blog.chipmunkdx.net/2015/10/2015-10-17_test1</guid>
       <description>
 
 &lt;h1 id=&#34;テスト１:77f9db138f9a1d47bd106dbb21578320&#34;&gt;テスト１&lt;/h1&gt;

@@ -3,7 +3,7 @@
   <channel>
       <title> on しまりすくんでらっくす </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/</link>
+    <link>http://blog.chipmunkdx.net/</link>
     <language>ja-jp</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>記事のタイトル</title>
-      <link>http://localhost:1313/2015/10/test9</link>
+      <link>http://blog.chipmunkdx.net/2015/10/test9</link>
       <pubDate>Sun, 18 Oct 2015 23:42:40 JST</pubDate>
       
-      <guid>http://localhost:1313/2015/10/test9</guid>
+      <guid>http://blog.chipmunkdx.net/2015/10/test9</guid>
       <description>
 
 &lt;h2 id=&#34;テスト記事9個目:dce8e2d9aaa7da9db9d3d8096490eb92&#34;&gt;テスト記事9個目&lt;/h2&gt;
@@ -37,19 +37,19 @@
     
     <item>
       <title>test8</title>
-      <link>http://localhost:1313/2015/10/test8</link>
+      <link>http://blog.chipmunkdx.net/2015/10/test8</link>
       <pubDate>Sun, 18 Oct 2015 08:50:23 JST</pubDate>
       
-      <guid>http://localhost:1313/2015/10/test8</guid>
+      <guid>http://blog.chipmunkdx.net/2015/10/test8</guid>
       <description></description>
     </item>
     
     <item>
       <title>test7</title>
-      <link>http://localhost:1313/2015/10/test7</link>
+      <link>http://blog.chipmunkdx.net/2015/10/test7</link>
       <pubDate>Sun, 18 Oct 2015 08:44:09 JST</pubDate>
       
-      <guid>http://localhost:1313/2015/10/test7</guid>
+      <guid>http://blog.chipmunkdx.net/2015/10/test7</guid>
       <description>
 
 &lt;h2 id=&#34;test7:837b4a7fded41f2d99a739b5d4eaf8ec&#34;&gt;TEST7&lt;/h2&gt;
@@ -62,10 +62,10 @@
     
     <item>
       <title>2015 10 17_test1</title>
-      <link>http://localhost:1313/2015/10/2015-10-17_test1</link>
+      <link>http://blog.chipmunkdx.net/2015/10/2015-10-17_test1</link>
       <pubDate>Sat, 17 Oct 2015 17:01:48 JST</pubDate>
       
-      <guid>http://localhost:1313/2015/10/2015-10-17_test1</guid>
+      <guid>http://blog.chipmunkdx.net/2015/10/2015-10-17_test1</guid>
       <description>
 
 &lt;h1 id=&#34;テスト１:77f9db138f9a1d47bd106dbb21578320&#34;&gt;テスト１&lt;/h1&gt;
@@ -84,10 +84,10 @@
     
     <item>
       <title>テストNo.3</title>
-      <link>http://localhost:1313/2015/10/test3</link>
+      <link>http://blog.chipmunkdx.net/2015/10/test3</link>
       <pubDate>Sat, 17 Oct 2015 16:57:02 JST</pubDate>
       
-      <guid>http://localhost:1313/2015/10/test3</guid>
+      <guid>http://blog.chipmunkdx.net/2015/10/test3</guid>
       <description>
 
 &lt;h1 id=&#34;てすと３:31734cf674b9f890c9c7f3365b6ad818&#34;&gt;てすと３&lt;/h1&gt;
@@ -104,10 +104,10 @@
     
     <item>
       <title>test2</title>
-      <link>http://localhost:1313/2015/10/test2</link>
+      <link>http://blog.chipmunkdx.net/2015/10/test2</link>
       <pubDate>Sat, 17 Oct 2015 16:55:45 JST</pubDate>
       
-      <guid>http://localhost:1313/2015/10/test2</guid>
+      <guid>http://blog.chipmunkdx.net/2015/10/test2</guid>
       <description>
 
 &lt;h2 id=&#34;てすと２:d950817e04abf2512a1ffa509267f987&#34;&gt;てすと２&lt;/h2&gt;
@@ -126,10 +126,10 @@
     
     <item>
       <title>Just another sample post</title>
-      <link>http://localhost:1313/2015/10/newest</link>
+      <link>http://blog.chipmunkdx.net/2015/10/newest</link>
       <pubDate>Sat, 17 Oct 2015 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/2015/10/newest</guid>
+      <guid>http://blog.chipmunkdx.net/2015/10/newest</guid>
       <description>
 
 &lt;h1 id=&#34;test-blog:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;TEST blog&lt;/h1&gt;

@@ -3,7 +3,7 @@
   <channel>
       <title>Hugo on しまりすくんでらっくす </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/categories/hugo/</link>
+    <link>http://blog.chipmunkdx.net/categories/hugo/</link>
     <language>ja-jp</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Just another sample post</title>
-      <link>http://localhost:1313/2015/10/newest</link>
+      <link>http://blog.chipmunkdx.net/2015/10/newest</link>
       <pubDate>Sat, 17 Oct 2015 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/2015/10/newest</guid>
+      <guid>http://blog.chipmunkdx.net/2015/10/newest</guid>
       <description>
 
 &lt;h1 id=&#34;test-blog:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;TEST blog&lt;/h1&gt;
