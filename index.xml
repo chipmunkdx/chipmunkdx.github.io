@@ -36,28 +36,32 @@
     </item>
     
     <item>
+      <title>HUGOカテゴリが設定されない問題</title>
+      <link>http://blog.chipmunkdx.net/2015/10/category-missing</link>
+      <pubDate>Sun, 18 Oct 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://blog.chipmunkdx.net/2015/10/category-missing</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://blog.chipmunkdx.net/images/img/redcard.png&#34; alt=&#34;&#34; title=&#34;カテゴリが設定されていません&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;hugoの2つ目のカテゴリが設定されない問題:41bf2cb661e3910162144dfe01f77df9&#34;&gt;HUGOの2つ目のカテゴリが設定されない問題&lt;/h2&gt;
+
+&lt;p&gt;　カテゴリを２つ設定しているのですが、2つ目のカテゴリが作成されません。&lt;/p&gt;
+
+&lt;p&gt;なんでだ？？？&lt;/p&gt;
+
+&lt;p&gt;原因はわかりません。。。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>test8</title>
       <link>http://blog.chipmunkdx.net/2015/10/test8</link>
       <pubDate>Sun, 18 Oct 2015 08:50:23 JST</pubDate>
       
       <guid>http://blog.chipmunkdx.net/2015/10/test8</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>test7</title>
-      <link>http://blog.chipmunkdx.net/2015/10/test7</link>
-      <pubDate>Sun, 18 Oct 2015 08:44:09 JST</pubDate>
-      
-      <guid>http://blog.chipmunkdx.net/2015/10/test7</guid>
-      <description>
-
-&lt;h2 id=&#34;test7:41bf2cb661e3910162144dfe01f77df9&#34;&gt;TEST7&lt;/h2&gt;
-
-&lt;h3 id=&#34;this-is-test:41bf2cb661e3910162144dfe01f77df9&#34;&gt;This is test&lt;/h3&gt;
-
-&lt;h2 id=&#34;end:41bf2cb661e3910162144dfe01f77df9&#34;&gt;End&amp;hellip;&lt;/h2&gt;
-</description>
     </item>
     
     <item>
